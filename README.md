@@ -90,7 +90,7 @@ int main()
 
 
 ## OUTPUT
-<img width="1415" height="1040" alt="image" src="https://github.com/user-attachments/assets/96c3ff16-55f9-48ab-9f37-ffd3f06c6a75" />
+<img width="706" height="469" alt="Screenshot from 2025-11-14 10-48-15" src="https://github.com/user-attachments/assets/6f73d94e-a25f-42d7-85a0-57b5b1a4e851" />
 
 
 
